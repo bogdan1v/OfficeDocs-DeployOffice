@@ -70,7 +70,7 @@ Once that value is set, users can open the application using any method and it w
 
 ## See also
 
-- [Microsoft 365 Unattended License Overview](https://download.microsoft.com/download/3/D/4/3D42BDC2-6725-4B29-B75A-A5B04179958B/M365_Unattended_Brief.pdf) (PDF)
+- [Microsoft 365 Unattended License Overview](https://download.microsoft.com/download/3/d/4/3D42BDC2-6725-4B29-B75A-A5B04179958B/Licensing_brief_PLT_Microsoft365_Unattended_License_overview.pdf) (PDF)
 - [New licensing options for Microsoft 365 for unattended scenarios](https://developer.microsoft.com/office/blogs/new-licensing-options-for-microsoft-365-for-unattended-scenarios/)
 - [Considerations for unattended automation of Office in the Microsoft 365 for unattended RPA environment](/office/client-developer/integration/considerations-unattended-automation-office-microsoft-365-for-unattended-rpa)
 - [Command-line switch code](https://support.microsoft.com/office/079164cd-4ef5-4178-b235-441737deb3a6)
